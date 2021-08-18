@@ -1,0 +1,45 @@
+<DOCTYPE>
+
+<html>
+  <head>
+       <title>Login de Gestor de parque de estacionamento</title>
+	   <meta charset="utf-8"/>
+	   <link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.min.css"/>
+	   <link rel="stylesheet" type="text/css" href="assets/css/style.css"/>
+	   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+	   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	   <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet"/>
+	   <link href="https://fonts.googleapis.com/css?family=Barlow+Condensed&display=swap" rel="stylesheet"/>
+	   <meta http-equiv="Cache-control" content="no-cache"/>
+  </head>
+  
+  <body>
+         <div class="container" id="login-todo">
+		   <div  class="container col-sm-6" id="container-login">
+		   
+		        
+		     <form id="dadosLogin"> 
+				<div class="form-group">
+ 					    <label for="username">Username:</label>
+						<input type="text" class="form-control" placeholder="Digite o seu username" id="username"/>
+						<i class="fa fa-user" id="figurinha_user"></i><br/>
+						<label id="mensagem-erroLogin"></label>
+			    </div>
+				
+				<div class="form-group">
+						<label for="senha">Senha: </label>
+						<input type="password" placeholder="Digite o seu username" class="form-control" id="senha"/>
+						<i class="fa fa-lock" id="figurinha_senha"></i><br/>
+						<label id="mensagem-erroSenha"></label>
+					  </div>
+	                     				  
+					  <button type="submit"  id="botaoLogin" class="btn btn-primary"> <i class="fa fa-send-o"></i> Entrar</button>
+				</form>
+			 </div>
+			 
+		 </div>
+	
+	<script src="assets/jquery/jquery.min.js"></script>
+	<script src="assets/js/login.js"></script>
+  </body>
+</html>

@@ -1,0 +1,81 @@
+
+  body{
+	  margin:0px;
+	  padding:0px;
+	  background-color:#57adff
+	  
+  }
+  
+  #container-login{
+	     height:320px;
+		 width:550px;
+		 margin-left:27%;
+		 padding:30px;
+		 margin-top:8%;
+		 background-color:007366;
+		 font-family: 'Roboto Condensed', sans-serif;
+  }
+  
+  #figurinha_user{
+	  margin-top:-39px;
+	  padding-left:9px;
+	  color:gray;
+	  font-size:25px;
+	  position:relative;
+  }
+  
+  #username{
+	  background-color:#f2f2ff;
+	  padding:23 35; 
+	  font-family: 'Roboto Condensed', sans-serif;
+  }
+  
+   #username:focus{
+	  background-color:#ccccff;
+	  padding:25 37px; 
+	  
+  }
+  
+  #botaoLogin{
+	  padding-left:18px;
+	  padding-right:18px;
+	  font-size:20px;
+	  margin-left:35%;
+	  font-family: 'Roboto Condensed', sans-serif;
+  }
+  
+  #senha{
+       background-color:#f2f2ff;
+	  padding:23 35;	  
+	  font-family: 'Roboto Condensed', sans-serif;
+  }
+  
+  #figurinha_senha{
+	  margin-top:-39px;
+	  padding-left:9px;
+	  color:gray;
+	  font-size:25px;
+	  position:relative;
+  }
+  
+     #senha:focus{
+	  background-color:#ccccff;
+	  padding:25 37px; 
+	  
+  }
+  
+  #mensagem-erroLogin{
+	  background-color:b8e6ff;
+	  color:white;
+	  display:none;
+	  font-family: 'Barlow Condensed', sans-serif;
+	  font-size:18px;
+  }
+  
+  #mensagem-erroSenha{
+	  background-color:b8e6ff;
+	  color:white;
+	  display:none;
+	  font-family: 'Barlow Condensed', sans-serif;
+	  font-size:18px;
+  }

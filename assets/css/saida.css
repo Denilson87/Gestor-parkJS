@@ -1,0 +1,75 @@
+
+  #imagemVisivel{
+	  margin-left:0%;
+	  margin-top:30px;
+	 width:43%;
+  }
+  
+ /* #qrReader{
+	  border:2px solid black;
+  }*/
+  
+  #dadosaida{
+	  height:80%;
+	  width:51%;
+	  background-color:red;
+	  margin-left:45%;	
+	  margin-top:-241px;
+  }
+  
+ 
+ #container_navSuperior{
+	 background-color:white;
+	 height:18px;
+ }
+  
+ #container_navInferior{
+	 background-color:#006666;
+	 height:45px;
+	 color:white;
+ }
+ 
+ #dadosUser{
+	 margin-left:500px;
+ }
+ 
+ #dropdown{
+	 color:white;
+ }
+ 
+ #link-home{
+	 color:white;
+ }
+ 
+ #links{
+	 color:white;
+ }
+ 
+ /*#coisasPaginas{
+	   background-color:#148585;
+	   margin-top:-40px;
+	   height:100%;
+	   
+ }
+  
+  #imagemVisivel{
+	margin-top:40px;
+	padding:40px;
+  }
+     *	/
+  #resultados{
+	  height:70px;
+	  background-color:#53e2e2;
+	  width:72%;
+	  margin-left:365px;
+	  margin-top:-200px;
+	  height:auto;
+	  display:none;
+  }
+  
+   .info{
+	   color:;
+	   font-family: 'Oregano', cursive;
+	   list-style: none;
+	   font-size:25px;
+  }

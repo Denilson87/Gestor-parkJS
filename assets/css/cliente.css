@@ -1,0 +1,191 @@
+
+ #lista_cliente{
+ 	 background-color: #b3b3ff;
+ 	 height: auto;
+ 	 width: 70%;
+ 	 margin-left: 190px;
+ 	 margin-top:30px;
+ 	 position: relative;
+ 	 
+ }
+
+   #containerBotao{
+   	margin-left: 74%;
+   	margin-top: 45px;
+   	position: relative;
+   	width:175px;
+   }
+
+   #btnCliente{
+   		padding: 5px;
+   		font-size: 18px;
+   		background-color:#006666;
+   		font-family: 'Roboto', cursive	;
+   }
+
+   #TituloModalCentralizado{
+   	  font-family: 'Roboto', cursive;
+   	  padding-left: 255px;
+   }
+
+   .subtitulos{
+   	    font-size: 19px;
+   	    font-family: 'Noto Serif', serif;
+   	    color: white;
+   }
+
+ #modalCustumerModal{
+ 	background-color: #00b3b3;
+ }
+
+  #botoes{ 
+  	   margin-left:35%;
+  }
+
+  /* Estilo para o formulario*/
+
+   #nome{
+   	 font-size: 18px;
+   	 padding: 10px;
+   	 font-family: 'Noto Serif', serif;
+   	 color: black;
+   }
+
+   #nome:focus{
+   	font-size: 19px;
+   	color: #cccccc;
+   	background-color: #004d4d;
+   }
+
+   #nCasa{
+   	 font-size: 18px;
+   	 padding: 10px;
+   	 font-family: 'Noto Serif', serif;
+   	 color: black;
+   }
+
+   #nCasa:focus{
+   	font-size: 19px;
+   	color: #cccccc;
+   	background-color: #004d4d;
+   }
+
+   #bairro{
+   	 font-size: 18px;
+   	 padding: 10px;
+   	 font-family: 'Noto Serif', serif;
+   	 color: black;
+   }
+
+   #bairro:focus{
+   	font-size: 19px;
+   	color: #cccccc;
+   	background-color: #004d4d;
+   }
+
+   #avenida{
+   	 font-size: 18px;
+   	 padding: 10px;
+   	 font-family: 'Noto Serif', serif;
+   	 color: black;
+   }
+
+   #avenida:focus{
+   	font-size: 19px;
+   	color: #cccccc;
+   	background-color: #004d4d;
+   }
+
+   #numTel{
+   	 font-size: 18px;
+   	 padding: 10px;
+   	 font-family: 'Noto Serif', serif;
+   	 color: black;
+   }
+
+   #numTel:focus{
+   	font-size: 19px;
+   	color: #cccccc;
+   	background-color: #004d4d;
+   }
+
+   #numAlternativo{
+   	 font-size: 18px;
+   	 padding: 10px;
+   	 font-family: 'Noto Serif', serif;
+   	 color: black;
+   }
+
+   #numAlternativo:focus{
+   	font-size: 19px;
+   	color: #cccccc;
+   	background-color: #004d4d;
+   }
+
+   .erros{
+   	font-family: 'Noto', cursive;
+   	font-size: 17px;
+   	color:  #a61266;
+   }
+
+
+   #pagination{
+   margin-left: 14%;	
+   }
+
+   #apagarCliente{
+   	 margin-top: 10%;
+   }
+
+   .subtitulosEdit{
+   	    font-size: 19px;
+   	    font-family: 'Noto Serif', serif;
+   	    color: white;
+   }
+
+   .errosEdit{
+   	font-family: 'Noto', cursive;
+   	font-size: 17px;
+   	color:red;
+   }
+
+   tr:hover{
+   	 background-color:#007566;	
+   }
+
+   #containerFormPesquisa{
+   	 width: 32%;
+   	 margin-left: 13%;
+   	 margin-top: -41px;
+
+   }
+
+   #dadoPesquisa{
+   	font-size: 17px;
+   	padding: 20px;
+   	font-family: 'Roboto',cursive;
+   	color: black;
+   	padding-left: 31px;
+   }
+
+ 
+   #btnProcura{
+   	 font-family:'Roboto',cursive;
+   	 font-size: 18px;
+   	 margin: 1px; 
+   }
+
+
+    #btnProcurarCont{
+     margin-left:590px;
+     width:150px;
+     margin-top: -40px;
+    }
+
+  #exclamacaoErro{
+  	font-size: 23px;
+  	color: orange;
+  	margin-left: 5px;
+  	margin-top: -30px;
+  	display: none;
+  }

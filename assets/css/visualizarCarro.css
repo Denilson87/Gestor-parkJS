@@ -1,0 +1,109 @@
+  
+  *{
+	  margin:0px;
+	  padding:0px;
+  }
+  
+  #cont{
+	  background-color:red;
+  }
+  
+   #conteudo1{
+	 background-color:#61919e;
+	 height:1000px;
+	 width:80%;
+	 padding:20px;
+ }
+ 
+  #estetica{
+	   display:flex;
+	   margin-top:40px;
+  }
+  #tituloDados{
+	  color:#e6e6ff;
+  }
+ 
+	 hr{
+	  flex:1;
+      background-color:#99ff99;
+      height:2px;
+	  width:330px;
+    }
+	
+	
+	
+	
+	#pergunta_cont{
+		width:45%;
+	}
+	
+		#pergunta1_cont{
+	
+		width:45%;
+	}
+	
+	 #pergunta{
+	        margin-left:35px;	
+           			
+	 }
+	 
+	 
+	label{
+		color:black;
+		font-size:18px;
+	}
+	
+	
+	 #dados{
+		      background-color:#00859c;
+			  width:55%;
+			  font-family: 'roboto',cursive;
+			  font-size:15px;
+			  opacity: 95%;
+	 }
+	 
+	 #botao_autorizacao{
+		margin-left:150px;
+		margin-bottom:4px;
+		padding-bottom:5px;	
+	 }
+	 
+	 #outroDono{
+		   display:none;
+	 }
+	 
+	 #radios{
+		   margin-left:165px;
+		   padding:5px;
+		   border:1px solid white;
+		   width:150px;
+		   height:105px;
+		   padding-bottom:15px;
+		   opacity:1.0;
+	 }
+	 
+	 #email{
+       background-color:#f2f2ff;
+	  padding:22 31;	  
+	  font-family: 'Roboto Condensed', sans-serif;
+  }
+  
+  	 #matricula{
+       background-color:#f2f2ff;
+	  padding:20 30;	  
+	  font-family: 'Roboto Condensed', sans-serif;
+  }
+  
+  #donoOcasional{
+	    background-color:#f2f2ff;
+	    padding:20 30;	  
+	    font-family: 'Roboto Condensed', sans-serif;
+  }
+  
+  
+  #processing{
+	  display:none;
+	    margin-top:-244px;
+		margin-left:440px;
+		position:fixed;
+  }

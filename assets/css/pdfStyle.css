@@ -1,0 +1,22 @@
+
+
+#titulo_pdf{
+	font-family:'roboto', cursive;
+	Text-transform:Uperrcase;
+	color: #006666;
+}
+
+#containerImgPdf{
+	border:1px solid black;
+	height:70px;
+	width:70px;
+}
+
+#qrCode{
+	height:70px;
+	width:70px;
+}
+
+  <i>Nome do cliente: </i><br/><br/>
+   <i>Matricula:</i><p>'.$matricula.'</p><br/><br/>
+	<i>Email:</i> <p>'.$email'.</p><br/><br/>	

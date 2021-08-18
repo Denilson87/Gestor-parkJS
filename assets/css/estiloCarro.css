@@ -1,0 +1,266 @@
+
+
+	*{
+		margin:0px;
+		padding:0px;
+	}
+	
+	 
+ #links{
+	 color:white;
+ }
+ 
+  
+ #container_navSuperior{
+	 background-color:white;
+	 height:18px;
+ }
+  
+ #container_navInferior{
+	 background-color:#006666;
+	 height:45px;
+	 color:white;
+ }
+ 
+ #dadosUser{
+	 margin-right:80px;
+ }
+ 
+ #dropdown{
+	 color:white;
+	  margin-left:400px;
+ }
+ 
+  #menuDrop{
+	   margin-left:400px;
+  }
+  
+ #link-home{
+	 color:white;
+	 
+ }
+ 
+ 
+ #listaCarros{
+	 height: 100%;
+	 background-color:#f2fafa;
+	 margin-top:0px;
+	 padding:5px;
+	 overflow:hidden;
+	 width:100%;
+ }
+ 
+  #contentBotao{
+		height:40px;
+		margin-top:30px;
+		margin-left:76%;
+        width: 11%; 
+		
+ }
+  
+  #addNewCarBtn{
+	   padding:6px;
+	   font-size:17px;
+	   text-align:center;
+	   color:#f2f2ff;
+	   font-family: 'Roboto', sans-serif;
+	   width:100%;
+  }
+  
+  #addNewCarBtn:hover{
+	  font-size:18px;
+	  color: white;
+  }
+  
+   #addNewCarBtn:active{
+	  font-size:18px;
+	  color: #ccffcc;
+	  border:none;
+	  outline:none;
+  }
+  
+	#listaCar{
+	 background-color:red;
+     width:77%;	 
+	 margin-top:20px;
+	 margin-left:10%;
+	}
+	
+	#topoLista{
+		  background-color:#009999;
+		  color:white;
+	}
+	
+	#listaCompleta{
+		font-family:'Roboto', sans-serif;
+	}
+	
+	#CorpoApresentacao{
+		 background-color:lightgray;
+		 font-size:22px;
+		 font-family: 'Roboto', sans-serif;
+		 font-weight: bold;
+	}
+
+	#tituloDiv{
+		   padding: 5px;
+		   background-color: #009999;
+	}
+
+	#tituloModal{
+		  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+		  font-size: 18px;
+		  color:white;
+		  margin-left: 45%;
+	}
+
+	#corpoModal{
+		background-color:#f2fafa;
+	}
+
+	#novoCarro{
+		margin-top: 2%;
+	}
+		   
+    #marca{
+		padding: 20px;
+		font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+		box-sizing: border-box;
+		opacity: 90%;
+		background-color: lightgray;
+		color:black;
+		font-size:18px;
+	}
+
+	#marca:focus{
+		outline: none;
+		background-color: darkcyan;
+		font-size: 20px;
+	}
+
+	#modelo{
+		padding: 20px;
+		font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+		opacity: 90%;
+		background-color: lightgray;
+		color:black;
+		font-size:18px;
+	}
+
+	#modelo:focus{
+		outline: none;
+		background-color: darkcyan;
+		font-size: 20px;
+	}
+
+	
+	#matricula_cont{
+		  width: 60%;
+		  margin-left:20%;
+	}
+	
+	#subtitle{
+		font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+		font-size: 20px;
+		margin-left:0px;
+	}
+
+	#matricula{
+		padding: 20px;
+		font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+		box-sizing: border-box;
+		opacity: 90%;
+		background-color: lightgray;
+		color:black;
+		font-size:18px;
+		text-transform: uppercase;
+	}
+
+	#matricula:focus{
+		outline: none;
+		background-color: darkcyan;
+		font-size: 20px;
+	}
+
+
+	#cor_cont{
+		width: 60%;
+	}
+
+	#cor{
+		padding: 20px;
+		font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+		box-sizing: border-box;
+		opacity: 90%;
+		background-color: lightgray;
+		color:black;
+		font-size:18px;
+	}
+
+	#cor:focus{
+		outline: none;
+		background-color: darkcyan;
+		font-size: 20px;
+	}
+
+	#telefone{
+		padding: 20px;
+		font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+		box-sizing: border-box;
+		opacity: 90%;
+		background-color: lightgray;
+		color:black;
+		font-size:18px;
+	}
+
+	#telefone:focus{
+		outline: none;
+		background-color: darkcyan;
+		font-size: 20px;
+	}
+
+	
+	#botaoAdd{
+		padding:6px;
+		font-size:17px;
+		text-align:center;
+		color:#f2f2ff;
+		font-family: 'Roboto', sans-serif;
+		width:100%;
+	}
+
+	#botaoAdd_cont{
+		width: 25%;
+	}
+	 
+	#categoria{
+		padding: 15px;
+		font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;	
+		font-size: 15px;
+		width: 80%;
+		border-radius:5px;
+	}
+  
+   #paginas{
+   	margin-top: 0px;
+    width: 77%;
+    height: 32px;
+    margin-left: 132px;
+   }
+ /*  Modal edit style*/
+   #matricula_cont1{
+   	   width: 50%;
+   }
+  
+  #cor_cont1{
+   	   width: 50%;
+   }
+   #categoria1{
+   	width: 90%;
+   	font-size: 18px;
+   	padding: 5px;
+   }
+  
+tr:hover{
+		background-color: #00CC66;
+	}
