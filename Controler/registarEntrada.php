@@ -89,14 +89,14 @@
 										
 												$mail->SingleTo = true; 
 													$mail->SMTPAuth = true; 
-													$mail->Username = 'virgiliojmulungo@gmail.com'; // usuario gmail.   
-													$mail->Password = 'amendoim'; // senha do email.
+													$mail->Username = ''; // usuario gmail.   
+													$mail->Password = ''; // senha do email.
 													$mail->SingleTo = true; 
 
 
 													// configuração do email a ver enviado.
-													$mail->From = "virgiliojmulungo@gmail.com"; 
-													$mail->FromName = "Virgilio.";
+													$mail->From = ""; 
+													$mail->FromName = "";
 													 
 													$file_to_attach = '../pdfGerados/infoSaida'.$ultimoId.'.pdf';
 													$mail->AddAttachment( $file_to_attach , 'Dados de entrada ao sistema');
