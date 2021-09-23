@@ -33,7 +33,7 @@
 									   </li>
 									   <li class="nav-item">
 											<a class="nav-link" id="links" href="Carros.php"><i class="fa fa-automobile"></i> Veiculos</a>
-										</li>
+										</li> 
 										
 										<li class="nav-item">
 											<a class="nav-link" id="links" href="marcarSaida.php"><i class="fa fa-book"></i>Sparque</a>
