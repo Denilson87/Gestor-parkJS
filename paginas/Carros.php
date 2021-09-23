@@ -25,7 +25,7 @@
 									<a class="navbar-brand" href="../index.php" id="link-home"><i class="fa fa-home" id="figurinha_home"></i> Gestor de Estacionamento</a>
 									<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 									<span class="navbar-toggler-icon"></span>
-									</button>
+									</button> 
 									<div class="collapse navbar-collapse" id="navbarNav">
 									<ul class="navbar-nav" >
 										<li class="nav-item">
