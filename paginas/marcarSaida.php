@@ -40,7 +40,7 @@
 										  
 										  
 										 <li class="nav-item dropdown" id="dadosUser">
-										<a class="nav-link dropdown-toggle" data-toggle="dropdown" id="dropdown" href="#" role="button">Virgilio Mulungo</a>
+										<a class="nav-link dropdown-toggle" data-toggle="dropdown" id="dropdown" href="#" role="button">Menu</a>
 											<div class="dropdown-menu">
 												<a class="dropdown-item" href="#"><i class="fa fa-cog"></i> Definições</a>
 												<a class="dropdown-item" href="#"><i class="fa fa-lock"></i> Trocar senha</a>
